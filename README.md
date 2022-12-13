@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pnkjshrma99
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...dsa
-- 💞️ I’m looking to collaborate on ...real world prjects
+- 💞️ I’m looking to collaborate on ...real world projects
 - 📫 How to reach me ...on github
 
 <!---
