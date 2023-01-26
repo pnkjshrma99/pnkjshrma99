@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @pnkjshrma99
 - 👀 I’m interested in ...coding
+
+[![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pnkjshrma99)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning ...dsa
 - 💞️ I’m looking to collaborate on ...real world projects
 - 📫 How to reach me ...on github
 
-<!---
-pnkjshrma99/pnkjshrma99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
