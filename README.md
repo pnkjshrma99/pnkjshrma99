@@ -37,9 +37,6 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
   </a>
-  <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" alt="vault" width="40" height="40"/>
-  </a>
   <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
   </a>
